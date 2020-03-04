@@ -112,7 +112,7 @@ GEM
     nokogiri (1.10.8-x64-mingw32)
       mini_portile2 (~> 2.4.0)
     public_suffix (4.0.1)
-    puma (4.3.1)
+    puma (4.3.3)
       nio4r (~> 2.0)
     rack (2.0.8)
     rack-proxy (0.6.5)
@@ -216,7 +216,7 @@ DEPENDENCIES
   capybara (>= 2.15)
   haml
   jbuilder (~> 2.7)
-  puma (~> 4.1)
+  puma (~> 4.3)
   rails (~> 6.0.1)
   sass-rails (>= 6)
   selenium-webdriver
